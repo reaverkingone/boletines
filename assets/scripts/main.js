@@ -40,7 +40,7 @@ links.forEach(function (link) {
     
     setTimeout(function(){
         // Redirigir la página al home
-        location.href = "/";
+        location.href = "/boletines";
     },600);
 
     
